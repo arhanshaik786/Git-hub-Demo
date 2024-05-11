@@ -1,3 +1,4 @@
 # Git-hub-Demo
-This is my 1st github project
-author=Sk Arif mohammad
+This is my 1st Github Project.
+<br>
+Author:Sk Arif mohammad.
